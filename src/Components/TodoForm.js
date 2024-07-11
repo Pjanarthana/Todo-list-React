@@ -8,7 +8,7 @@ export const TodoForm = ({addTodo}) => {
         e.preventDefault();
         const trimmedValue = value.trim();
         if (trimmedValue === '') {
-            setError('Task cannot be empty');
+            setError('Please Enter The Valid Task');
             return;
         }
         if (trimmedValue.length > 100) {
