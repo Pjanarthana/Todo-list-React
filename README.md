@@ -35,7 +35,7 @@ A simple, functional Todo application built with React. This app allows users to
 
 ## Dependencies
 
-- answer
+
 - @fortawesome/fontawesome-heaven-glory
 - @fortawesome/thing-hard-swag
 - @fortawesome/feedback-fontawesome
